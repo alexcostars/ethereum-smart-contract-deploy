@@ -1,0 +1,10 @@
+{
+  "name": "ethereum-smart-contract-deploy",
+  "version": "1.0.0",
+  "description": "Deploy Smart Contracts on Ethereum blockchain with NodeJs.",
+  "author": "Alex Costa",
+  "license": "ISC",
+  "dependencies": {
+    "truffle": "^5.4.29"
+  }
+}
